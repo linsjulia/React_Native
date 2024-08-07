@@ -1,0 +1,10 @@
+Verificar se o node.js está instalado na sua máquina
+
+Criar projeto react native:
+
+entrar na pasta da sua preferência do pc no prompt normal(sem permissões);
+
+depois, executar o seguinte comando:
+npx create-react-app NomeDoProjeto
+
+ 
